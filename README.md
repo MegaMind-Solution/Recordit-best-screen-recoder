@@ -9,8 +9,8 @@
 # Recordit 
 A screen recording and audio recorder app for Android os.
 
-[Screenshot 001](https://github.com/MegaMind-Solution/Recordit-best-screen-recoder/blob/main/Screenshot/Screenshot_20250224-023115.png)
+![Screenshot 001](https://github.com/MegaMind-Solution/Recordit-best-screen-recoder/blob/main/Screenshot/Screenshot_20250224-023115.png)
 
-[Screenshot 001](https://github.com/MegaMind-Solution/Recordit-best-screen-recoder/blob/main/Screenshot/Screenshot_20250224-023241.png)
+![Screenshot 001](https://github.com/MegaMind-Solution/Recordit-best-screen-recoder/blob/main/Screenshot/Screenshot_20250224-023241.png)
 
-[Screenshot 001](https://github.com/MegaMind-Solution/Recordit-best-screen-recoder/blob/main/Screenshot/Screenshot_20250224-023252.png)
+![Screenshot 001](https://github.com/MegaMind-Solution/Recordit-best-screen-recoder/blob/main/Screenshot/Screenshot_20250224-023252.png)
