@@ -1,6 +1,6 @@
 # Recordit-best-screen-recoder
 # Hi I'm Ramzan.
-'m passionate **Web developer**, **graphic designer**, **software modifier** and app developer.
+I'm passionate **Web developer**, **graphic designer**, **software modifier** and app developer.
 <hr>
 
 # Hi 
